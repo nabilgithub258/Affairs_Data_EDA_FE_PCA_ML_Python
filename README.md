@@ -1,4 +1,4 @@
-# Affairs Dataset Analysis & Predictions
+# Affairs Dataset Analysis & Prediction
 
 This project involves an in-depth analysis of the "Affairs" dataset to understand the factors influencing extramarital affairs. The work includes Exploratory Data Analysis (EDA), Feature Engineering (FE), and Machine Learning (ML) predictions.
 
